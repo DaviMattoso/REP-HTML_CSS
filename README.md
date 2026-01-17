@@ -28,8 +28,6 @@ HTML-CSS/
 │   └── ...
 └── Modulo 5/
 
-    └── ...
-
 Cada pasta contém:
 📄 Material em PDF – Notas, resumos e explicações.
 💻 Códigos de prática – Exercícios para consolidar o aprendizado.
