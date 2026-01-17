@@ -29,6 +29,8 @@ HTML-CSS/
 
 └── Modulo 5/
 
+├── Projetos
+
 Cada pasta contém:
 
 📄 Material em PDF – Notas, resumos e explicações.
@@ -36,6 +38,8 @@ Cada pasta contém:
 💻 Códigos de prática – Exercícios para consolidar o aprendizado.
 
 🎯 Objetivo do Repositório
+
+📄 Projetos em html, css e js
 
 Consolidar meu aprendizado autodidata em HTML e CSS.
 
